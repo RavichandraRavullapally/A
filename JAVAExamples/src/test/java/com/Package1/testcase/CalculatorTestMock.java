@@ -15,7 +15,7 @@ import com.Package1.logic.MathUtil;
 public class CalculatorTestMock {
 
 	/** Unit under test. */
-	/**Author:Gayathri*/
+	/**Author:Gayathri Nadella*/
 	private Calculator calc;
 
 	@Before
